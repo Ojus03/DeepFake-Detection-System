@@ -1,0 +1,13 @@
+*.keras
+*.pkl
+*.h5
+*.pt
+*.pth
+*.npy
+*.npz
+*.docx
+feature_cache_v2/
+feature_cache_v3/
+frame_cache_224/
+__pycache__/
+*.pyc
